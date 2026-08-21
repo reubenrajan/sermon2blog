@@ -12,9 +12,12 @@ The script performs conservative editorial cleanup:
 from __future__ import annotations
 
 import argparse
+import os
 import re
 from pathlib import Path
 
+# ID of the destination Google Drive folder, replace with your own folder.
+FOLDER_ID = "1G0dSBQplLrCE6riml4CkdYaeAU2jRp6M"
 
 FILLERS = [
     r"\buh\b", r"\bum\b", r"\byou know\b",
@@ -197,6 +200,45 @@ def convert(transcript: str, output: str, title=None, speaker=None, source_url=N
     Path(output).write_text("\n".join(out), encoding="utf-8")
     return Path(output)
 
+def upload_to_drive_folder(file_path, folder_id):
+    """Uploads a generated Markdown/blog file directly into the specified Drive folder."""
+    try:
+        from google.oauth2 import service_account
+        from googleapiclient.discovery import build
+        from googleapiclient.http import MediaFileUpload
+    except ImportError as exc:
+        raise RuntimeError(
+            "Google Drive uploads require google-api-python-client and google-auth."
+        ) from exc
+
+    credentials_path = os.environ.get("GOOGLE_APPLICATION_CREDENTIALS")
+    if not credentials_path:
+        raise RuntimeError(
+            "Set GOOGLE_APPLICATION_CREDENTIALS before uploading to Google Drive."
+        )
+
+    creds = service_account.Credentials.from_service_account_file(
+        credentials_path,
+        scopes=["https://www.googleapis.com/auth/drive.file"],
+    )
+    service = build("drive", "v3", credentials=creds)
+
+    file_metadata = {
+        "name": os.path.basename(file_path),
+        "parents": [folder_id],
+    }
+
+    media = MediaFileUpload(file_path, mimetype="text/markdown")
+
+    uploaded_file = service.files().create(
+        body=file_metadata,
+        media_body=media,
+        fields="id, webViewLink"
+    ).execute()
+
+    print(f"File uploaded successfully to folder {folder_id}!")
+    print(f"File Link: {uploaded_file.get('webViewLink')}")
+    return uploaded_file
 
 def main():
     parser = argparse.ArgumentParser(
@@ -207,12 +249,25 @@ def main():
     parser.add_argument("--title")
     parser.add_argument("--speaker")
     parser.add_argument("--source-url")
+    parser.add_argument(
+        "--upload-to-drive",
+        action="store_true",
+        help="Upload the generated Markdown file to Google Drive",
+    )
+    parser.add_argument(
+        "--folder-id",
+        default=FOLDER_ID,
+        help="Google Drive destination folder ID",
+    )
     args = parser.parse_args()
 
     path = convert(
         args.transcript, args.output, args.title, args.speaker, args.source_url
     )
     print(f"Created: {path}")
+
+    if args.upload_to_drive:
+        upload_to_drive_folder(path, args.folder_id)
 
 
 if __name__ == "__main__":
