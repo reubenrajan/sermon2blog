@@ -257,6 +257,8 @@ Use the filename:
 
 Also provide a short summary of the editorial changes made.
 
+Place the file in the folder - https://drive.google.com/drive/u/0/folders/1G0dSBQplLrCE6riml4CkdYaeAU2jRp6M
+
 ## Important constraint
 
 The Python script is the deterministic processing layer.
