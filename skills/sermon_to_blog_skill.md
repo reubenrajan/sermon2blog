@@ -36,27 +36,13 @@ Preserve speaker wording, Scripture references, quotations, stories, illustratio
 
 Remove timestamps, unnecessary speaker labels, applause, laughter, music/stage directions, audience responses, greetings, event logistics, and repeated conversational fillers.
 
-### 3. Run the Python converter
+### 3. Perform deterministic cleanup
 
-Use the accompanying `sermon_to_blog.py` tool.
-
-Run it against the transcript.
-
-Example:
-
-```bash
-python sermon_to_blog.py transcript.md \
-  --output sermon_blog.md \
-  --title "The Sacrifice of Praise" \
-  --speaker "Bill Johnson" \
-  --source-url "SOURCE_URL"
-```
-
-The script performs deterministic cleanup: repeated-word correction, repeated-punctuation correction, common speech-to-text correction, filler removal, paragraph cleanup, Markdown heading preservation, Scripture-reference extraction, and study-pointer generation.
+Perform deterministic cleanup of repeated words, repeated punctuation, common speech-to-text errors, fillers, paragraphs, Markdown headings, Scripture references, and study pointers.
 
 ### 4. Editorial pass
 
-After running the script, perform a second editorial review.
+After deterministic cleanup, perform a second editorial review.
 
 The goal is not to rewrite the sermon into a new message.
 
@@ -177,8 +163,6 @@ Also provide a short summary of the editorial changes made.
 
 ## Important constraint
 
-The Python script is the deterministic processing layer.
-
-The editorial review is the semantic layer.
+Deterministic cleanup is the processing layer. The editorial review is the semantic layer.
 
 Do not replace the editorial review with aggressive automated rewriting. The purpose is to make the sermon readable as study material while preserving the original message.
