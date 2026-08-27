@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Convert a YouTube video, Spotify podcast, or other sermon/podcast source into a readable study-blog Markdown document and publish it in the Sermon2Blog Hugo site.
+Convert a YouTube video, Spotify podcast, or other sermon/podcast source into a readable study-blog Markdown document and publish it in the Sermon2Blog repo.
 
 The output must preserve the speaker's overall meaning, teaching flow, important wording, Scripture references, stories, and illustrations while removing conversational delivery artifacts.
 
@@ -125,7 +125,7 @@ Set `draft: false` for posts that are ready to publish.
 
 Also create the study blog edition of the transcribed-sermon and place it under `sermons/<title>_<speaker>.md`
 
-Commit the new posts - both the transcribed sermon and the study blog to the `main` branch.
+Commit the new posts; both the transcribed sermon and the study blog to the `main` branch.
 
 Do not place future sermon posts only in external storage. The GitHub repository is the canonical source for published sermon blog posts.
 
@@ -156,7 +156,7 @@ Before publishing, verify:
 - The output is valid Markdown.
 - The post is stored under `sermons/`.
 - `rss.xml` is valid RSS 2.0 XML and includes every non-draft sermon entry exactly once, with the raw-sermon URL and any available study-blog URL.
-- If Scripture references are present in either full form, such as `Hebrews 12:2`, or short form, such as `Heb 12:2`, resolve each reference with YouVersion and hyperlink every occurrence in the raw transcription and study-blog edition. For KJV transalation use this as reference `https://www.bible.com/bible/1/PRO.4.23.KJV` where `bible/1` is the numerical index for the translation `KJV`
+- If Scripture references are present in either full form, such as `Hebrews 12:2`, or short form, such as `Heb 12:2`, resolve each reference with YouVersion and hyperlink every occurrence in the raw transcription and study-blog edition. For KJV transalation use this as reference `https://www.bible.com/bible/1/PRO.4.23.KJV` where `bible/1` is the numerical index for the KJV transalation.
 - Preserve the original reference text as the link label, and use a stable YouVersion Bible URL for the resolved reference.
 
 ## Output
