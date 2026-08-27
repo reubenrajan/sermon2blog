@@ -1,12 +1,18 @@
 # Transcribe Sermon and Blogify to Notion
-## Purpose
-Transcribe a sermon available on YouTube video, Spotify podcast, or other sermon/podcast source into a readable study-blog Markdown document and publish it in the Notion Sermon database.
 
-The output must preserve the speaker's overall meaning, teaching flow, important wording, Scripture references, stories, and illustrations while removing conversational delivery artifacts.
+## Purpose
+
+Transcribe a sermon available on YouTube video, Spotify podcast, or other sermon/podcast source into two distinct representations and publish them in the Notion Sermons database:
+
+1. A **complete cleaned Raw transcription** that preserves the full publishable spoken sermon.
+2. A **Study Blog Edition** that organizes the sermon into readable study material.
+
+The output must preserve the speaker's overall meaning, teaching flow, important wording, Scripture references, stories, illustrations, meaningful first-person testimony, intentional emphasis, and useful jokes while removing conversational delivery artifacts.
 
 ## Required input
 
 Ask the user for:
+
 1. The YouTube, Spotify podcast, or sermon link.
 2. Optional: speaker/preacher name if it is not clear from the source.
 3. Optional: preferred blog title if different from the source title.
@@ -18,21 +24,61 @@ Do not ask the user to paste the transcript unless transcript retrieval from the
 ### 1. Resolve the source
 
 Identify whether the link is YouTube, Spotify, a podcast page, sermon archive, or another publicly accessible media page.
+
 Fetch the available transcript or captions using Firecrawl CHATGPT plugin.
-If a transcript is not available from the source, state that clearly and ask the user to provide the transcript file.
-Do not invent a transcript.
+
+If a transcript is not available from the source, state that clearly and do not invent a transcript.
 
 ### 2. Prepare the transcript
 
 Save the retrieved transcript as an `.md` file.
-Preserve speaker wording, Scripture references, quotations, stories, illustrations, major teaching points, and existing section headings where available.
-Remove timestamps, unnecessary speaker labels, applause, laughter, music/stage directions, audience responses, greetings, event logistics, and repeated conversational fillers.
 
-### 3. Perform deterministic cleanup
+Preserve the full sequence of publishable spoken content. Do not summarize the sermon when creating the Raw record.
+
+Preserve:
+
+- Speaker wording when the intended meaning is clear.
+- Scripture references and Scripture quotations.
+- Important quotations.
+- Stories and illustrations.
+- Meaningful first-person testimony.
+- Intentional repetition used for emphasis.
+- Useful jokes and teaching-related humor.
+- Prayers, declarations, exhortations, and application spoken as part of the sermon.
+- Existing section headings when available.
+
+Remove only delivery artifacts that do not contribute meaning, including:
+
+- Timestamps.
+- Unnecessary speaker labels.
+- Applause and laughter markers.
+- Music or stage directions.
+- Audience responses and side conversations.
+- Greetings and event logistics when they are not part of the teaching.
+- Repeated conversational fillers.
+- Obvious speech-to-text corruption.
+
+Do not remove meaningful content merely because it is not part of the central teaching.
+
+### 3. Worship and copyrighted song lyrics
+
+A sermon may contain worship songs. Preserve the fact that a worship section occurred and retain any speaker commentary that contributes to the sermon.
+
+Do not reproduce long copyrighted song lyrics from the source transcript. For a song section, use a concise marker such as:
+
+`[Worship song omitted; speaker commentary retained.]`
+
+Do not replace non-song sermon content with a summary merely because the surrounding video contains music.
+
+### 4. Perform deterministic cleanup
 
 Perform deterministic cleanup of repeated words, repeated punctuation, common speech-to-text errors, fillers, paragraphs, Markdown headings, Scripture references, and study pointers.
 
-### 4. Editorial pass
+Apply deterministic cleanup before semantic editorial review.
+
+Do not use deterministic rules to remove intentional rhetorical repetition.
+
+### 5. Editorial pass
 
 After deterministic cleanup, perform a second editorial review.
 
@@ -40,86 +86,109 @@ The goal is not to rewrite the sermon into a new message.
 
 Preserve meaning. Do not add new doctrine, introduce interpretations not present in the sermon, change theological conclusions, remove important qualifications, or alter Scripture meaning.
 
-Improve readability by converting spoken language into written language. Do not mechanically remove repetition when repetition is clearly intentional for emphasis.
+For the **Raw transcription**, improve readability only enough to produce a faithful cleaned transcription. Do not turn it into a summary or article.
 
-Keep jokes when they contribute to the teaching. Remove jokes that depend on audience context or delivery tone when needed, while preserving useful illustrations.
+For the **Study Blog Edition**, convert spoken language into readable study material and organize it into sections that reflect the actual sermon.
+
+Do not mechanically remove repetition when repetition is clearly intentional for emphasis.
+
+Keep jokes when they contribute to the teaching. Remove jokes that depend entirely on audience context or delivery tone when needed, while preserving useful illustrations.
 
 Keep meaningful first-person testimony. Remove only accidental repeated first-person phrasing.
 
 Perform a complete grammar review without changing intentional theological terminology or distinctive phrases merely because they differ from ordinary prose.
 
-### 5. Structure the study blog
+### 6. Create the Raw Notion record
 
-Use a readable structure such as:
+Every plain transcribed complete sermon must be stored in the Sermons Notion database.
 
-```markdown
----
-title: "Title"
-description: "Short summary of the transcribed message"
-date: YYYY-MM-DD
-speaker: "Name"
-source_url: "URL"
-draft: false
-tags: "Multiple Tags"
----
+Set the page name to:
 
-# Title
+`<title>-<speaker>`
 
-*Study Blog Edition*
+Set the entity property `Type` to:
 
-**Speaker:** Name
-**Source:** URL
+`Raw`
 
----
+The Raw page content must contain the **complete cleaned publishable transcription**, not a summary, outline, or explanation of the sermon.
 
-## Introduction
+The Raw page must not use summary substitutions such as `The message explains...` or `The speaker discusses...` where sermon content should appear.
 
-...
+Preserve the full sermon sequence except for delivery artifacts and copyrighted song lyrics that cannot be reproduced in full.
 
-## Main Teaching
+### 7. Create the Study Notion record
 
-...
+Create a separate Sermons Notion database page with the page name:
 
-## The Biblical Foundation
+`<title>-<speaker>`
 
-...
+Set the entity property `Type` to:
 
-## Practical Application
+`Study`
 
-...
+The Study page is the readable study edition. It may condense spoken repetition and delivery while preserving the sermon meaning.
 
-## Scripture References
+Use sections that reflect the sermon. A typical structure is:
 
-- Reference
-- Reference
+- Introduction
+- Main Teaching
+- Biblical Foundation
+- Practical Application
+- Scripture References
+- Study Pointers
+- Reflection
 
-## Study Pointers
+Do not force headings when they do not fit the sermon.
 
-- What is the main truth being taught?
-- Which Scriptures support the teaching?
-- What change in thinking or practice does the teaching call for?
-- Which story or illustration best explains the central point?
-- How can this teaching be applied in daily life?
+### 8. Duplicate detection
 
-## Reflection
+Before creating or replacing either Notion record, validate duplicates using all three entity properties:
 
-...
-```
+- `Title`
+- `Type`
+- `Date`
 
-Do not force these headings if the sermon already has a strong structure. Use headings that reflect the actual content.
+A Raw record and a Study record for the same sermon are expected because their `Type` values differ.
 
-### 6. Publish to Notion
+Do not create a duplicate when the same `Title + Type + Date` combination already exists.
 
-1. Every plain transcribed complete sermon must be stored in the Sermons Notion database with the page name as `<title>-<speaker>` with the entity property `Type` set to `Raw` 
+When updating an existing record, preserve its correct `Type` and `Date` properties.
 
-2. Create the study blog edition of the transcribed sermon must be stored in the Sermons Notion database with the page name as `<title>-<speaker>` with the entity property `Type` set to `Study`
+### 9. Scripture linking
 
-Always check for duplicate entry by validating the entity properties - `Title`,  `Type` and `Date`
+If Scripture references are present in either full form, such as `Hebrews 12:2`, or short form, such as `Heb 12:2`, resolve each reference with YouVersion and hyperlink every occurrence in both the Raw and Study records.
 
-### 7. Final quality check
+For KJV translation, use the YouVersion `bible/1` reference pattern, for example:
 
-Before publishing, verify:
+`https://www.bible.com/bible/1/PRO.4.23.KJV`
 
+Preserve the original Scripture reference text as the link label.
+
+Do not silently change the translation named or implied by the sermon.
+
+### 10. GitHub consistency
+
+When this Notion skill is used as part of the full sermon publishing workflow, the GitHub repository remains the canonical published source.
+
+The same sermon must have:
+
+`sermons/raw/raw_<title>_<speaker>.md`
+
+and
+
+`sermons/<title>_<speaker>.md`
+
+with the Raw file containing the complete cleaned transcription and the Study file containing the Study Blog Edition.
+
+The root `rss.xml` must contain one RSS item per sermon, not one item per representation.
+
+### 11. Final quality check
+
+Before publishing to Notion, verify:
+
+- The Raw record contains the complete cleaned publishable transcription, not a summary.
+- The Study record is distinct from the Raw record.
+- `Title`, `Type`, and `Date` have been checked for duplicates.
 - No accidental repeated words such as `I I`, `the the`, or `that that`.
 - No accidental repeated punctuation such as `..`, `,,`, `!!`, or `??`.
 - No timestamps.
@@ -129,17 +198,23 @@ Before publishing, verify:
 - Scripture references remain intact.
 - Important quotations remain intact.
 - First-person testimony remains when meaningful.
-- Jokes are readable in written form.
+- Intentional rhetorical repetition remains.
+- Jokes are readable in written form when useful.
 - Paragraphs are readable.
 - Grammar is corrected.
 - The sermon meaning is preserved.
 - No new theological claims have been added.
-- The output is valid Markdown.
-- The post is stored under `sermons/`.
-- `rss.xml` is valid RSS 2.0 XML and includes every non-draft sermon entry exactly once, with the raw-sermon URL and any available study-blog URL.
-- If Scripture references are present in either full form, such as `Hebrews 12:2`, or short form, such as `Heb 12:2`, resolve each reference with YouVersion and hyperlink every occurrence in the raw transcription and study-blog edition. For KJV transalation use this as reference `https://www.bible.com/bible/1/PRO.4.23.KJV` where `bible/1` is the numerical index for the KJV transalation.
-- Preserve the original reference text as the link label, and use a stable YouVersion Bible URL for the resolved reference.
+- The Markdown is valid.
+- All publishable Scripture references are hyperlinked in both Raw and Study records.
+- The GitHub Raw and Study files are consistent with the Notion records when the GitHub publication step is included.
+- The same sermon is not accidentally published more than once for the same `Title + Type + Date` combination.
 
-## Important constraint
-Deterministic cleanup is the processing layer. The editorial review is the semantic layer.
-Do not replace the editorial review with aggressive automated rewriting. The purpose is to make the sermon readable as study material while preserving the original message.
+## Important constraints
+
+- Deterministic cleanup is the processing layer.
+- Editorial review is the semantic layer.
+- Do not replace editorial review with aggressive automated rewriting.
+- The Raw representation is a complete cleaned transcription, not a summary.
+- The Study representation is the readable study edition, not a replacement for the Raw transcription.
+- Never invent missing transcript content.
+- Never alter theological meaning to improve prose.
