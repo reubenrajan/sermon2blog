@@ -24,7 +24,7 @@ Do not invent a transcript.
 
 ### 2. Prepare the transcript
 
-Save the retrieved transcript as a temporary `.txt` or `.md` file.
+Save the retrieved transcript as an `.md` file.
 Preserve speaker wording, Scripture references, quotations, stories, illustrations, major teaching points, and existing section headings where available.
 Remove timestamps, unnecessary speaker labels, applause, laughter, music/stage directions, audience responses, greetings, event logistics, and repeated conversational fillers.
 
@@ -110,7 +110,7 @@ Do not force these headings if the sermon already has a strong structure. Use he
 
 ### 6. Publish to Notion
 
-1. Every plain transcribed sermon must be stored in the Sermons Notion database with the page name as `<title>-<speaker>` with the entity property `Type` set to `Raw` 
+1. Every plain transcribed complete sermon must be stored in the Sermons Notion database with the page name as `<title>-<speaker>` with the entity property `Type` set to `Raw` 
 
 2. Create the study blog edition of the transcribed sermon must be stored in the Sermons Notion database with the page name as `<title>-<speaker>` with the entity property `Type` set to `Study`
 
