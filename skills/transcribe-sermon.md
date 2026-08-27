@@ -1,4 +1,4 @@
-# YouTube / Spotify Sermon-to-Blog Skill
+# Sermon Transcription Skill
 
 ## Purpose
 
@@ -118,12 +118,14 @@ Do not force these headings if the sermon already has a strong structure. Use he
 ### 6. Publish to GitHub Pages
 
 Every completed sermon blog must be stored in the repository under:
-`sermons/<title>_<speaker>.md`
+`sermons/raw/raw_<title>_<speaker>.md`
 
 Use the `archetypes/sermons.md` structure as the default starting point.
 Set `draft: false` for posts that are ready to publish.
 
-Commit the new post to the `main` branch.
+Also create the study blog edition of the transcribed-sermon and place it under `sermons/<title>_<speaker>.md`
+
+Commit the new posts - both the transcribed sermon and the study blog to the `main` branch.
 
 Do not place future sermon posts only in external storage. The GitHub repository is the canonical source for published sermon blog posts.
 
@@ -131,7 +133,7 @@ Also create an RSS entry in the root-level `rss.xml`.
 
 Update the root-level `rss.xml` whenever a sermon is added or its metadata changes.
 The feed must be valid RSS 2.0 XML and contain one `<item>` for every Markdown file in `sermons/`.
-For each item, include the sermon title, a stable GitHub URL for the Markdown file as both `<link>` and `<guid>`, a short description, the speaker when known.
+For each item, include the sermon title, a stable GitHub URL in `/sermons/raw/` folder for the raw markdown file as both `<link>` and `<guid>`, as well as the study blog stable GitHub URL in `/sermons`, a short description, the speaker when known.
 
 ### 7. Final quality check
 
