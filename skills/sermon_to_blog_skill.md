@@ -131,10 +131,7 @@ Also create an RSS entry in the root-level `rss.xml`.
 
 Update the root-level `rss.xml` whenever a sermon is added or its metadata changes.
 The feed must be valid RSS 2.0 XML and contain one `<item>` for every Markdown file in `sermons/`.
-For each item, include the sermon title, a stable GitHub URL for the Markdown file as both `<link>` and `<guid>`, a short description, the speaker when known, and the entire sermon Markdown in an RSS content field such as `<content:encoded>`.
-Copy the complete sermon source, including its front matter and Markdown content, into the content field without truncating it.
-Include `<pubDate>` only when the sermon date is known. XML-escape metadata and descriptions, and do not include draft sermons.
-Use CDATA for the full sermon content when possible, and ensure the embedded content cannot break the XML document.
+For each item, include the sermon title, a stable GitHub URL for the Markdown file as both `<link>` and `<guid>`, a short description, the speaker when known.
 
 ### 7. Final quality check
 
