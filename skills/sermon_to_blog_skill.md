@@ -22,7 +22,7 @@ Do not ask the user to paste the transcript unless transcript retrieval from the
 
 Identify whether the link is YouTube, Spotify, a podcast page, sermon archive, or another publicly accessible media page.
 
-Fetch the available transcript or captions.
+Fetch the available transcript or captions using Firecrawl CHATGPT plugin.
 
 If a transcript is not available from the source, state that clearly and ask the user to provide the transcript file.
 
