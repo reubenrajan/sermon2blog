@@ -2,12 +2,12 @@
 
 ## Purpose
 
-Transcribe a sermon available on YouTube video, Spotify podcast, or other sermon/podcast source into two distinct representations and publish them in the Notion Sermons database:
+Transcribe a sermon available on YouTube video, Spotify podcast, or other sermon/podcast source into two distinct representations and publish them in the Notion `Sermons` database:
 
-1. A **complete cleaned Raw transcription** that preserves the full publishable spoken sermon.
-2. A **Study Blog Edition** that organizes the sermon into readable study material.
+1. A **complete cleaned edited raw transcription** that preserves the full spoken sermon.
+2. A **Study Blog Edition** that organizes the sermon into readable study material without changing its meaning.
 
-The output must preserve the speaker's overall meaning, teaching flow, important wording, Scripture references, stories, illustrations, meaningful first-person testimony, intentional emphasis, and useful jokes while removing conversational delivery artifacts.
+The output must preserve the speaker's overall meaning, teaching flow, important wording, Scripture references, stories, jokes, illustrations, meaningful first-person testimony, intentional emphasis, and useful jokes while removing conversational delivery artifacts.
 
 ## Required input
 
@@ -33,7 +33,7 @@ If a transcript is not available from the source, state that clearly and do not 
 
 Save the retrieved transcript as an `.md` file.
 
-Preserve the full sequence of publishable spoken content. Do not summarize the sermon when creating the Raw record.
+Preserve the full sequence of spoken content. Do not summarize the sermon when creating the raw record.
 
 Preserve:
 
@@ -62,11 +62,9 @@ Do not remove meaningful content merely because it is not part of the central te
 
 ### 3. Worship and copyrighted song lyrics
 
-A sermon may contain worship songs. Preserve the fact that a worship section occurred and retain any speaker commentary that contributes to the sermon.
+A sermon may contain worship songs. Remove the worship section completely.
 
-Do not reproduce long copyrighted song lyrics from the source transcript. For a song section, use a concise marker such as:
-
-`[Worship song omitted; speaker commentary retained.]`
+Do not reproduce long copyrighted song lyrics from the source transcript. 
 
 Do not replace non-song sermon content with a summary merely because the surrounding video contains music.
 
@@ -110,7 +108,7 @@ Set the entity property `Type` to:
 
 `Raw`
 
-The Raw page content must contain the **complete cleaned publishable transcription**, not a summary, outline, or explanation of the sermon.
+The Raw page content must contain the **complete cleaned transcription**, not a summary, outline, or explanation of the sermon.
 
 The Raw page must not use summary substitutions such as `The message explains...` or `The speaker discusses...` where sermon content should appear.
 
@@ -136,9 +134,16 @@ Use sections that reflect the sermon. A typical structure is:
 - Practical Application
 - Scripture References
 - Study Pointers
-- Reflection
+    - What is the main truth being taught?
+    - Which Scriptures support the teaching?
+    - What change in thinking or practice does the teaching call for?
+    - Which story or illustration best explains the central point?
+    - How can this teaching be applied in daily life?
+    - Reflection
 
-Do not force headings when they do not fit the sermon.
+Do not force these headings if the sermon already has a strong structure. Use headings that reflect the actual content.
+
+The Study Blog Edition may condense repetition and spoken delivery while preserving the sermon meaning. It must remain faithful to the Raw transcription.
 
 ### 8. Duplicate detection
 
@@ -166,27 +171,11 @@ Preserve the original Scripture reference text as the link label.
 
 Do not silently change the translation named or implied by the sermon.
 
-### 10. GitHub consistency
-
-When this Notion skill is used as part of the full sermon publishing workflow, the GitHub repository remains the canonical published source.
-
-The same sermon must have:
-
-`sermons/raw/raw_<title>_<speaker>.md`
-
-and
-
-`sermons/<title>_<speaker>.md`
-
-with the Raw file containing the complete cleaned transcription and the Study file containing the Study Blog Edition.
-
-The root `rss.xml` must contain one RSS item per sermon, not one item per representation.
-
-### 11. Final quality check
+### 10. Final quality check
 
 Before publishing to Notion, verify:
 
-- The Raw record contains the complete cleaned publishable transcription, not a summary.
+- The Raw record contains the complete cleaned transcription, not a summary.
 - The Study record is distinct from the Raw record.
 - `Title`, `Type`, and `Date` have been checked for duplicates.
 - No accidental repeated words such as `I I`, `the the`, or `that that`.
@@ -205,7 +194,7 @@ Before publishing to Notion, verify:
 - The sermon meaning is preserved.
 - No new theological claims have been added.
 - The Markdown is valid.
-- All publishable Scripture references are hyperlinked in both Raw and Study records.
+- All Scripture references are hyperlinked in both Raw and Study records.
 - The GitHub Raw and Study files are consistent with the Notion records when the GitHub publication step is included.
 - The same sermon is not accidentally published more than once for the same `Title + Type + Date` combination.
 

@@ -1,10 +1,10 @@
-# Sermon Transcription Skill
+# Transcribe Sermon and Store in Github
 
 ## Purpose
 
-Convert a YouTube video, Spotify podcast, or other sermon/podcast source into two readable Markdown representations and publish them in the Sermon2Blog repo:
+Convert a YouTube video, Spotify podcast, or other sermon/podcast source into two readable Markdown representations and publish them in the `Sermon2Blog` repo:
 
-1. A **complete cleaned Raw transcription** that preserves the full spoken sermon content that can be published.
+1. A **complete cleaned edited raw transcription** that preserves the full spoken sermon content.
 2. A **Study Blog Edition** that organizes the same sermon into readable study material without changing its meaning.
 
 The output must preserve the speaker's overall meaning, teaching flow, important wording, Scripture references, stories, illustrations, meaningful first-person testimony, intentional emphasis, and useful jokes while removing conversational delivery artifacts.
@@ -31,9 +31,9 @@ If a transcript is not available from the source, state that clearly and do not 
 
 ### 2. Prepare the transcript
 
-Save the retrieved transcript as a temporary `.txt` or `.md` file.
+Save the retrieved transcript as an `.md` file.
 
-Preserve the full sequence of publishable spoken content. Do not summarize the sermon when creating the Raw transcription.
+Preserve the full sequence of spoken content. Do not summarize the sermon when creating the Raw transcription.
 
 Preserve:
 
@@ -62,11 +62,9 @@ Do not remove meaningful content merely because it is not part of the central te
 
 ### 3. Worship and copyrighted song lyrics
 
-A sermon may contain worship songs. Preserve the fact that a worship section occurred and retain any speaker commentary that contributes to the sermon.
+A sermon may contain worship songs. Remove the worship section completely.
 
-Do not reproduce long copyrighted song lyrics from the source transcript. For a song section, use a concise marker such as:
-
-`[Worship song omitted; speaker commentary retained.]`
+Do not reproduce long copyrighted song lyrics from the source transcript. 
 
 Do not replace non-song sermon content with a summary merely because the surrounding video contains music.
 
@@ -110,7 +108,7 @@ Use the repository's `archetypes/sermons.md` structure as the default metadata s
 
 Set `draft: false` for posts that are ready to publish.
 
-The Raw file must contain the complete publishable sermon sequence after cleanup. It must not contain statements such as `The message explains...`, `The speaker discusses...`, or other summary language in place of the sermon itself.
+The Raw file must contain the complete sermon sequence after cleanup. It must not contain statements such as `The message explains...`, `The speaker discusses...`, or other summary language in place of the sermon itself.
 
 ### 7. Create the Study Blog Edition
 
@@ -200,25 +198,13 @@ and
 
 Commit both files to the `main` branch.
 
-Do not place future sermon posts only in external storage. The GitHub repository is the canonical source for published sermon posts.
-
-Also update the root-level `rss.xml` whenever a sermon is added or its metadata changes.
-
-The feed must be valid RSS 2.0 XML and contain one `<item>` for every sermon, not one item for each representation of the sermon.
-
-For each item, include:
-
-- The sermon title.
-- A stable GitHub URL in `/sermons/raw/` for the Raw Markdown file as `<link>` and `<guid>`.
-- The Study Blog URL in `/sermons/` when that edition exists.
-- A short description.
-- The speaker when known.
+Do not place future sermon posts only in external storage. The GitHub repository is the canonical source for sermon posts.
 
 ### 10. Final quality check
 
 Before publishing, verify:
 
-- The Raw file contains the complete cleaned publishable transcription, not a summary.
+- The Raw file contains the complete cleaned transcription, not a summary.
 - The Study Blog Edition is distinct from the Raw transcription.
 - No accidental repeated words such as `I I`, `the the`, or `that that`.
 - No accidental repeated punctuation such as `..`, `,,`, `!!`, or `??`.
@@ -238,9 +224,8 @@ Before publishing, verify:
 - The output is valid Markdown.
 - The Raw post is stored under `sermons/raw/`.
 - The Study Blog post is stored under `sermons/`.
-- All publishable Scripture references are hyperlinked in both representations.
-- `rss.xml` is valid RSS 2.0 XML and includes every non-draft sermon exactly once, with the Raw URL and any available Study Blog URL.
-- The same sermon has not already been published.
+- All Scripture references are hyperlinked in both representations.
+- The same sermon has not already been.
 
 ## Output
 
