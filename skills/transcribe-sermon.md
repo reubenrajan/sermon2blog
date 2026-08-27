@@ -132,8 +132,8 @@ Do not place future sermon posts only in external storage. The GitHub repository
 Also create an RSS entry in the root-level `rss.xml`.
 
 Update the root-level `rss.xml` whenever a sermon is added or its metadata changes.
-The feed must be valid RSS 2.0 XML and contain one `<item>` for every Markdown file in `sermons/`.
-For each item, include the sermon title, a stable GitHub URL in `/sermons/raw/` folder for the raw markdown file as both `<link>` and `<guid>`, as well as the study blog stable GitHub URL in `/sermons`, a short description, the speaker when known.
+The feed must be valid RSS 2.0 XML and contain one `<item>` for every sermon, not one item for each representation of the sermon.
+For each item, include the sermon title, a stable GitHub URL in `/sermons/raw/` for the raw Markdown file as `<link>` and `<guid>`, the study-blog URL in `/sermons/` when that edition exists, a short description, and the speaker when known.
 
 ### 7. Final quality check
 
@@ -155,7 +155,9 @@ Before publishing, verify:
 - No new theological claims have been added.
 - The output is valid Markdown.
 - The post is stored under `sermons/`.
-- `rss.xml` is valid RSS 2.0 XML, includes every non-draft sermon entry exactly once, and contains the complete source of each entry.
+- `rss.xml` is valid RSS 2.0 XML and includes every non-draft sermon entry exactly once, with the raw-sermon URL and any available study-blog URL.
+- If Scripture references are present in either full form, such as `Hebrews 12:2`, or short form, such as `Heb 12:2`, resolve each reference with YouVersion and hyperlink every occurrence in the raw transcription and study-blog edition. For KJV transalation use this as reference `https://www.bible.com/bible/1/PRO.4.23.KJV` where `bible/1` is the numerical index for the translation `KJV`
+- Preserve the original reference text as the link label, and use a stable YouVersion Bible URL for the resolved reference.
 
 ## Output
 

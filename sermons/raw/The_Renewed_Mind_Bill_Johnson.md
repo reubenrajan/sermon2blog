@@ -59,7 +59,7 @@ As I was opening the door to my car, I heard one of the workers say, "Sweet moth
 
 I want to talk to you about the renewed mind.
 
-The most well-known verse and kind of the cornerstone verse on the renewed mind, at least that I'm familiar with, would be Romans 12:2.
+The most well-known verse and kind of the cornerstone verse on the renewed mind, at least that I'm familiar with, would be [Romans 12:2](https://www.bible.com/bible/1/ROM.12.2.KJV).
 
 "Do not be conformed to this world, but be transformed by the renewing of your mind, that you may prove the will of God, that which is good, acceptable, and perfect."
 
@@ -81,7 +81,7 @@ The renewed mind doesn't come just through the study of Scripture, and please do
 
 But if the renewed mind came merely from the study of Scripture, the Pharisees would have had the most renewed minds on the planet. The devotion to Scripture itself was intense.
 
-But Jesus said this in John 5:39. He said, "You search the Scriptures." He's talking to this group of Pharisees. "You search the Scriptures because you think in them is eternal life, but these testify of me and you're not willing to come to me."
+But Jesus said this in [John 5:39](https://www.bible.com/bible/1/JHN.5.39.KJV). He said, "You search the Scriptures." He's talking to this group of Pharisees. "You search the Scriptures because you think in them is eternal life, but these testify of me and you're not willing to come to me."
 
 So walk through this with me. You study the Scriptures because you think in them is eternal life. In other words, this is an end in itself.
 
@@ -101,13 +101,13 @@ You just get it into you. You get it into you, but you learn. You know, we learn
 
 He is the living Word, and to read and to have him introduce us to this one who thinks so completely different than all of us. And learning to think from his perspective is vital for us.
 
-So, I want to take you just through a few of the biblical stories. So, if you'd open your Bibles to Mark chapter 4, and let's just start there and see how far we can get this morning.
+So, I want to take you just through a few of the biblical stories. So, if you'd open your Bibles to [Mark chapter 4](https://www.bible.com/bible/1/MRK.4.KJV), and let's just start there and see how far we can get this morning.
 
 As you see these stories, especially in the Gospels, as you go through the Scriptures just in your own reading of Scripture, look for where he thinks different. Look for where the renewed mind becomes manifest.
 
 ## Jesus and the Storm
 
-Let's take this one story in Mark chapter 4. Let's read verse 35.
+Let's take this one story in [Mark chapter 4](https://www.bible.com/bible/1/MRK.4.KJV). Let's read [verse 35](https://www.bible.com/bible/1/MRK.4.35.KJV).
 
 "On the same day, when evening had come, he said to them, 'Let us cross over to the other side.'
 
@@ -141,7 +141,7 @@ So, I hear other people say, "Well, he was sleeping because he was exhausted."
 
 How about he was sleeping because the world he dwells in has no storms?
 
-See, that when he says for us to abide in him, he modeled what that looked like. In fact, John chapter 3 gives us this most interesting statement where it says, I think it's verse 3, it says, "He who ascended."
+See, that when he says for us to abide in him, he modeled what that looked like. In fact, [John chapter 3](https://www.bible.com/bible/1/JHN.3.KJV) gives us this most interesting statement where it says, I think it's [verse 3](https://www.bible.com/bible/1/JHN.3.3.KJV), it says, "He who ascended."
 
 Now, remember it's Jesus standing on planet Earth. He says, "He who ascended first descended. That is the Son of Man who is in heaven."
 
@@ -217,7 +217,7 @@ You can only give what you have.
 
 Here's what it comes down to. This is what the renewed mind looks like. The renewed mind says that your internal reality will always become your external reality.
 
-It's the reason maintaining peace here is so vital to protect our heart. Proverbs 4:23 has been a key verse for me for 50-some years. Watch over your heart with all diligence because from it flow the issues of life.
+It's the reason maintaining peace here is so vital to protect our heart. [Proverbs 4:23](https://www.bible.com/bible/1/PRO.4.23.KJV) has been a key verse for me for 50-some years. Watch over your heart with all diligence because from it flow the issues of life.
 
 Be careful to watch the attitudes, the little tiny things that take place in the heart, the jealousies, the indifferences, whatever it might be, but we watch over those things as they creep up because it's out of that place flows the issues of life.
 
@@ -225,7 +225,7 @@ And you and I have been placed here to release the kingdom.
 
 ## The Word of God and the Kingdom
 
-In John 1:14 it says Jesus is the Word of God made flesh. The Word of God made flesh, but in John chapter 6 he said the words that I speak to you are spirit and they are life.
+In [John 1:14](https://www.bible.com/bible/1/JHN.1.14.KJV) it says Jesus is the Word of God made flesh. The Word of God made flesh, but in [John chapter 6](https://www.bible.com/bible/1/JHN.6.KJV) he said the words that I speak to you are spirit and they are life.
 
 So the Word of God became flesh, then became spirit.
 
@@ -351,7 +351,7 @@ And if there are no signs on the road you're traveling on, perhaps you're not on
 
 I should get back to my jokes. I can tell I need to get back.
 
-So, here it says, all that Jesus began to do and teach. Luke chapter 1. "O Theophilus, this is an account of all that Jesus began to do and teach."
+So, here it says, all that Jesus began to do and teach. [Luke chapter 1](https://www.bible.com/bible/1/LUK.1.KJV). "O Theophilus, this is an account of all that Jesus began to do and teach."
 
 So, the disciples are giving a report to him because they had been sent out two by two, and they came back to tell him, this is what we said, and this is what we saw happen.
 
@@ -359,7 +359,7 @@ So, all of you that are Bible teachers, this is not to shame anyone, but Bible t
 
 Doesn't mean miracles have to happen in every teaching, but they need to be a continuous part of the teaching and the proclamation of the Word.
 
-It says in John chapter 3, Nicodemus comes to Jesus and says, "We know that you are a teacher come from God because no one can do these signs that you do unless God is with them."
+It says in [John chapter 3](https://www.bible.com/bible/1/JHN.3.KJV), Nicodemus comes to Jesus and says, "We know that you are a teacher come from God because no one can do these signs that you do unless God is with them."
 
 So, the teaching and the doing need to happen in the same culture, not always the same moment, but in the same momentum of Scripture.
 
@@ -441,7 +441,7 @@ It's in what he said.
 
 Jack Taylor, he's home with the Lord now, a great Southern Baptist teacher and pastor and revivalist, dear friend.
 
-He talked to us once about this passage in Luke chapter 1 or 2, I forget now, where the angel speaks and says nothing will be impossible with God.
+He talked to us once about this passage in [Luke chapter 1](https://www.bible.com/bible/1/LUK.1.KJV) or [2](https://www.bible.com/bible/1/LUK.2.KJV), I forget now, where the angel speaks and says nothing will be impossible with God.
 
 For nothing will be impossible with God.
 
@@ -509,7 +509,7 @@ Remember, law requires. So, many of us try to obey God as law, the law that requ
 
 Go to chapter 8 and we'll wrap this up. I've got a little bit of time left, so let's see if we can make a bigger mess than we already have.
 
-Mark chapter 8. This particular chapter has been really formative in my own life. I won't give the full story, but one of the most important chapters for me in learning how God thinks.
+[Mark chapter 8](https://www.bible.com/bible/1/MRK.8.KJV). This particular chapter has been really formative in my own life. I won't give the full story, but one of the most important chapters for me in learning how God thinks.
 
 And I wish I could say I had it figured out, but I'm on the journey.
 
@@ -529,7 +529,7 @@ So, there's three primary influences in the world, all trying to shape how we th
 
 The political system, humanism. The religious system, powerless. Form without power.
 
-And then there's the kingdom. Matthew 13 says the kingdom of heaven is like leaven.
+And then there's the kingdom. [Matthew 13](https://www.bible.com/bible/1/MAT.13.KJV) says the kingdom of heaven is like leaven.
 
 So, there's three leavens that are to influence the lump of dough, which is between in ears, all right? This is a lump of dough.
 
@@ -769,13 +769,13 @@ Things are shaped by this history with God.
 
 I'll give you one more thought. And then I'm going to end early. You know, I ended early yesterday, today this like I'm giving you a whole new recess. If we were in grade school, you'd be on the monkey bars.
 
-In Psalms 119:111, it says the testimony of the Lord is our heritage, our inheritance forever.
+In [Psalms 119:111](https://www.bible.com/bible/1/PSA.119.111.KJV), it says the testimony of the Lord is our heritage, our inheritance forever.
 
 Okay, so think about this.
 
 I'll give you this concept of the testimony.
 
-Revelation 19:10 says the testimony of Jesus is the spirit of prophecy.
+ [Revelation 19:10](https://www.bible.com/bible/1/REV.19.10.KJV) says the testimony of Jesus is the spirit of prophecy.
 
 Testimony of Jesus is the spirit of prophecy. Say that with me. The testimony of Jesus is the spirit of prophecy.
 
@@ -801,7 +801,7 @@ You keep it before you until it shapes how you see your present world.
 
 And he says it's the spirit of prophecy, which means it brings about a change in the present.
 
-So think through this with me. In Psalms 119:111, he says the testimony of the Lord is your inheritance forever, which means what? The full record of everything God has done is your personal possession.
+So think through this with me. In [Psalms 119:111](https://www.bible.com/bible/1/PSA.119.111.KJV), he says the testimony of the Lord is your inheritance forever, which means what? The full record of everything God has done is your personal possession.
 
 He did not say your experience only. He said the testimony of the Lord is your possession.
 

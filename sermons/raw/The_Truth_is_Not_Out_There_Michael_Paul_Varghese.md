@@ -23,7 +23,7 @@ Praise the Lord Jesus. We are here again by His grace for another Wednesday of m
 
 We are grateful that Jesus is at the right hand of the Majesty on high, pleading and interceding for us. We are grateful for the privilege of taking our place as His body on the earth. To Him who sits on the throne and to the Lamb be blessing, glory, honor, and power forever.
 
-Hebrews 13:20-21 gives us a prayer that says, in part, that the God of peace brought again from the dead our Lord Jesus, that great Shepherd of the sheep, through the blood of the everlasting covenant, and that He would make us mature in every good work to do His will, working in us what is well pleasing in His sight through Jesus Christ.
+[Hebrews 13:20-21](https://www.bible.com/bible/1/HEB.13.20-21.KJV) gives us a prayer that says, in part, that the God of peace brought again from the dead our Lord Jesus, that great Shepherd of the sheep, through the blood of the everlasting covenant, and that He would make us mature in every good work to do His will, working in us what is well pleasing in His sight through Jesus Christ.
 
 There is a wonderful picture here. Jesus was the Lamb led to the slaughter. He was silent before His shearers. He laid down His life for the sheep. After His resurrection, He became the great Shepherd of the sheep. Through the covenant blood that He Himself shed, He is now committed to perfect that which concerns us.
 
@@ -33,9 +33,9 @@ Some things are eternal and some things are temporary. Jesus has passed into the
 
 ## Truth Has More Than One Side
 
-Every now and then, we look for Scriptures that minister peace and quietness to our souls. John 3:16 is one of those Scriptures: God loved the world and gave His only begotten Son so that whoever believes in Him should not perish but have everlasting life. It is filled with goodness and mercy.
+Every now and then, we look for Scriptures that minister peace and quietness to our souls. [John 3:16](https://www.bible.com/bible/1/JHN.3.16.KJV) is one of those Scriptures: God loved the world and gave His only begotten Son so that whoever believes in Him should not perish but have everlasting life. It is filled with goodness and mercy.
 
-But there are other verses that are true even though they are not as comfortable to hear. John 3:35-36 says that the Father loves the Son and has given all things into His hand. Whoever believes in the Son has everlasting life, but whoever does not believe the Son shall not see life, and the wrath of God remains on him.
+But there are other verses that are true even though they are not as comfortable to hear. [John 3:35-36](https://www.bible.com/bible/1/JHN.3.35-36.KJV) says that the Father loves the Son and has given all things into His hand. Whoever believes in the Son has everlasting life, but whoever does not believe the Son shall not see life, and the wrath of God remains on him.
 
 That is not a verse that people naturally want to display everywhere. Yet it is true. There are different sides to the multifaceted wisdom of God. He is the only wise God, and some things about Him are simply the way He is.
 
@@ -49,7 +49,7 @@ These truths must be received together. We cannot understand the compassionate L
 
 ## Jesus Our Advocate and Propitiation
 
-First John 2:1-2 says that John writes to believers so that they do not sin. Yet, if anyone does sin, we have an Advocate with the Father, Jesus Christ the righteous. He is our Advocate with the Father.
+[First John 2:1-2](https://www.bible.com/bible/1/1JN.2.1-2.KJV) says that John writes to believers so that they do not sin. Yet, if anyone does sin, we have an Advocate with the Father, Jesus Christ the righteous. He is our Advocate with the Father.
 
 An advocate is someone called to defend you. In the heavenly court of God, the righteous Judge, we have someone to call upon who will defend us. Every believer has Jesus Christ the righteous as an Advocate.
 
@@ -63,13 +63,13 @@ Therefore, today is the day and now is the hour to take advantage of what this p
 
 ## Love That Begins With God
 
-First John 4:10 says that love is not first defined by our love for God. It says that He loved us and sent His Son to be the propitiation for our sins. The sacrifice was offered first. We did not know about it or earn it. He first loved us and gave Himself for us.
+[First John 4:10](https://www.bible.com/bible/1/1JN.4.10.KJV) says that love is not first defined by our love for God. It says that He loved us and sent His Son to be the propitiation for our sins. The sacrifice was offered first. We did not know about it or earn it. He first loved us and gave Himself for us.
 
 The world has little idea about this. We owe it to people to explain and offer this wonderful mercy to them.
 
 The next verse says that because God so loved us, we ought also to love one another. God's love now affects how we walk on this earth.
 
-Psalm 23 speaks about walking through the valley of the shadow of death. It is not only death itself, but the shadow of death. There are thoughts and ideas that come against the mind and imagination. Fear can enter the mind even when the feared thing is not the reality.
+[Psalm 23](https://www.bible.com/bible/1/PSA.23.KJV) speaks about walking through the valley of the shadow of death. It is not only death itself, but the shadow of death. There are thoughts and ideas that come against the mind and imagination. Fear can enter the mind even when the feared thing is not the reality.
 
 A shadow is not the reality. The reality is that we have the life of God. The reality is that God loves us. The reality is that Jesus is pleading for us. The reality is that we share His life. Everything else is a shadow.
 
@@ -77,9 +77,9 @@ Yet shadows can still interfere with clear thinking. Therefore, we must make an 
 
 ## The Revelation of Jesus Christ
 
-John also wrote the book of Revelation. Revelation 1:1 calls it the revelation of Jesus Christ. It is not merely the revelation of John. God gave the revelation to Jesus Christ to show His servants the things that must shortly come to pass, and Jesus signified it through His angel to His servant John.
+John also wrote the book of Revelation. [Revelation 1:1](https://www.bible.com/bible/1/REV.1.1.KJV) calls it the revelation of Jesus Christ. It is not merely the revelation of John. God gave the revelation to Jesus Christ to show His servants the things that must shortly come to pass, and Jesus signified it through His angel to His servant John.
 
-Revelation 1:3 says, "Blessed is he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand."
+[Revelation 1:3](https://www.bible.com/bible/1/REV.1.3.KJV) says, "Blessed is he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand."
 
 If the time was described as being at hand two thousand years ago, then we should recognize how close the fulfillment appears to be now. There is a blessing attached to reading, hearing, and keeping these words.
 
@@ -87,13 +87,13 @@ Reading Scripture should not be treated as a private intellectual exercise only.
 
 As we continue through Revelation, we notice that one of the main figures is the Lamb. The Lamb is repeatedly magnified in the book. Jesus is presented through the character of the Lamb: gentle, merciful, innocent, and lovable.
 
-Then Revelation also shows the Lamb in another aspect. The church is pictured as having been gathered to Christ, and the marriage of the Lamb becomes a central image. Revelation 19 speaks of the marriage of the Lamb and says that His wife has made herself ready. The fine linen represents the righteous deeds of the saints.
+Then Revelation also shows the Lamb in another aspect. The church is pictured as having been gathered to Christ, and the marriage of the Lamb becomes a central image. [Revelation 19](https://www.bible.com/bible/1/REV.19.KJV) speaks of the marriage of the Lamb and says that His wife has made herself ready. The fine linen represents the righteous deeds of the saints.
 
 There is an amazing picture here for our imagination. The same Lamb who is gentle and merciful is also the holy Judge of sin.
 
 ## The Wrath of the Lamb
 
-Revelation 6:12-17 describes the opening of the sixth seal. John sees a great earthquake, the sun becoming black as sackcloth, the moon becoming like blood, stars falling to the earth, the heavens departing as a scroll, and mountains and islands being moved out of their places.
+[Revelation 6:12-17](https://www.bible.com/bible/1/REV.6.12-17.KJV) describes the opening of the sixth seal. John sees a great earthquake, the sun becoming black as sackcloth, the moon becoming like blood, stars falling to the earth, the heavens departing as a scroll, and mountains and islands being moved out of their places.
 
 John is recording what he saw. He is not simply adding his own interpretation. He reports the events as he witnessed them.
 
@@ -101,7 +101,7 @@ Then the kings of the earth, great men, rich men, chief captains, mighty men, bo
 
 Notice the words: the wrath of the Lamb.
 
-The Lamb is not only tender. The Lamb also has wrath. Revelation 6:17 says that the great day of His wrath has come, and asks who shall be able to stand.
+The Lamb is not only tender. The Lamb also has wrath. [Revelation 6:17](https://www.bible.com/bible/1/REV.6.17.KJV) says that the great day of His wrath has come, and asks who shall be able to stand.
 
 These are not abstract future ideas that have no connection with human choice. The message is that people need to respond while mercy is available. We should not minister these truths with a desire to condemn anyone. We should set forth the truth.
 
@@ -121,9 +121,9 @@ We should be grateful for the grace of God and for the privilege of knowing that
 
 ## Wisdom Is the Principal Thing
 
-Proverbs 4:7 says, "Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding."
+[Proverbs 4:7](https://www.bible.com/bible/1/PRO.4.7.KJV) says, "Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding."
 
-It continues by saying that when wisdom is embraced, it brings honor. This aligns with Proverbs 3, where we are told not to trust in the Lord with part of our heart, but with all our heart. We are also told not to lean on our own understanding.
+It continues by saying that when wisdom is embraced, it brings honor. This aligns with [Proverbs 3](https://www.bible.com/bible/1/PRO.3.KJV), where we are told not to trust in the Lord with part of our heart, but with all our heart. We are also told not to lean on our own understanding.
 
 God's wisdom teaches us how to make the right choices. His correction is part of His love. Wisdom is described as more valuable than silver, gold, or anything else that can be desired.
 
@@ -137,13 +137,13 @@ Jesus is the embodiment of that wisdom. He is the wisdom of God. When we underst
 
 ## The Wisdom of Humility
 
-James 3 addresses the tongue and the inconsistency of blessing and cursing from the same mouth. A fountain cannot produce both sweet water and bitter water. A fig tree cannot produce olives, and a vine cannot produce figs.
+[James 3](https://www.bible.com/bible/1/JAS.3.KJV) addresses the tongue and the inconsistency of blessing and cursing from the same mouth. A fountain cannot produce both sweet water and bitter water. A fig tree cannot produce olives, and a vine cannot produce figs.
 
 The point is that our speech should reveal the nature of the wisdom by which we live.
 
 We should choose to be a blessing. Our tongues should produce what strengthens and builds others up. We should separate our speech from bitterness and use it for things that are fruitful and helpful.
 
-James 3:13 asks who is wise and endued with knowledge and says that such a person should show by good conduct and works the meekness of wisdom.
+[James 3:13](https://www.bible.com/bible/1/JAS.3.13.KJV) asks who is wise and endued with knowledge and says that such a person should show by good conduct and works the meekness of wisdom.
 
 The wisdom of God is humble. The world has another kind of wisdom that is driven by pride, competition, striving, envy, and self-promotion.
 
@@ -153,7 +153,7 @@ This can be difficult because the world keeps reminding us that being low means 
 
 ## Meekness Is Not Weakness
 
-Matthew 11:25-30 shows Jesus thanking the Father because certain things are hidden from the wise and prudent in the world's sense and revealed to those who come as babes.
+[Matthew 11:25-30](https://www.bible.com/bible/1/MAT.11.25-30.KJV) shows Jesus thanking the Father because certain things are hidden from the wise and prudent in the world's sense and revealed to those who come as babes.
 
 This does not mean that God opposes true wisdom. It means that worldly wisdom, worldly status, and worldly pride do not give a person access to the things of God.
 
@@ -175,7 +175,7 @@ Therefore, our targets cannot be the same as the world's targets. We want the re
 
 ## Get Wisdom, Not More Fear
 
-Proverbs 3 and James 3 point us toward the same conclusion. We need wisdom, not a constant obsession with spiritual threats.
+[Proverbs 3](https://www.bible.com/bible/1/PRO.3.KJV) and [James 3](https://www.bible.com/bible/1/JAS.3.KJV) point us toward the same conclusion. We need wisdom, not a constant obsession with spiritual threats.
 
 The Scripture says that the wise person is humble. Wisdom produces the ability to respect authority, honor those whom God says to honor, and live with the right priorities.
 
@@ -191,7 +191,7 @@ That may require waiting. It may be difficult for the flesh. Yet God's Word will
 
 ## Two Kinds of Wisdom
 
-James 3:14-18 gives a direct contrast between earthly wisdom and wisdom from above.
+[James 3:14-18](https://www.bible.com/bible/1/JAS.3.14-18.KJV) gives a direct contrast between earthly wisdom and wisdom from above.
 
 Where there is bitter envy and strife in the heart, we are told not to boast and not to lie against the truth. This kind of wisdom does not come from above. It is earthly, sensual, and devilish.
 
@@ -209,11 +209,11 @@ Wisdom is not merely asking God for a shortcut in a difficult situation. Wisdom 
 
 ## Mercy Is the Knowledge of God
 
-Hosea 6:6 says, "I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings."
+[Hosea 6:6](https://www.bible.com/bible/1/HOS.6.6.KJV) says, "I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings."
 
 Mercy is connected with the knowledge of God. Jesus used this Scripture Himself and told people to go and learn what it means.
 
-Matthew 9:13 says, "Go ye and learn what that meaneth, I will have mercy, and not sacrifice."
+[Matthew 9:13](https://www.bible.com/bible/1/MAT.9.13.KJV) says, "Go ye and learn what that meaneth, I will have mercy, and not sacrifice."
 
 Jesus was teaching people to study the Bible. He was not asking for religious activity without understanding. He wanted people to learn the meaning of the Scriptures.
 
@@ -227,7 +227,7 @@ Jesus is the Word made flesh. To know His Word is to learn His ways and understa
 
 ## What Does the Lord Require?
 
-Micah 6:8 gives another clear statement: God has shown us what is good and what He requires. We are to do justly, love mercy, and walk humbly with our God.
+[Micah 6:8](https://www.bible.com/bible/1/MIC.6.8.KJV) gives another clear statement: God has shown us what is good and what He requires. We are to do justly, love mercy, and walk humbly with our God.
 
 Notice the connection.
 
@@ -239,7 +239,7 @@ Instead, we should let God lift up our heads. We should let Him establish His go
 
 ## Paul Serves With Humility
 
-Acts 20 gives us a real example in the life of the apostle Paul. Paul was coming toward the end of his ministry and was on his way to Jerusalem.
+[Acts 20](https://www.bible.com/bible/1/ACT.20.KJV) gives us a real example in the life of the apostle Paul. Paul was coming toward the end of his ministry and was on his way to Jerusalem.
 
 Earlier, in Troas, a young man named Eutychus fell from the third story while Paul was preaching late into the night. Paul went down, embraced him, and the young man was found alive.
 
@@ -247,7 +247,7 @@ After that, Paul traveled and eventually came to Miletus, where he sent for the 
 
 There was an order to this. Paul did not simply address everyone in an undefined way. He called the elders, the pastors, those who had oversight.
 
-Acts 20:18-20 begins Paul's farewell message. He reminds them how he had been with them through all seasons and says that he served the Lord with all humility of mind, with many tears and temptations.
+[Acts 20:18-20](https://www.bible.com/bible/1/ACT.20.18-20.KJV) begins Paul's farewell message. He reminds them how he had been with them through all seasons and says that he served the Lord with all humility of mind, with many tears and temptations.
 
 Life is full of seasons. There are good seasons, difficult seasons, happy seasons, sad seasons, and challenging seasons. Paul says that in all those seasons he served the Lord with humility.
 
@@ -259,7 +259,7 @@ Paul testified to Jews and Greeks of repentance toward God and faith toward our 
 
 He knew that trouble awaited him. The Holy Spirit warned him that bonds and afflictions were ahead. Yet Paul said that none of these things moved him.
 
-Acts 20:24 captures his attitude: he did not count his life dear to himself so that he might finish his course with joy and the ministry he received from the Lord Jesus, to testify of the Gospel of the grace of God.
+[Acts 20:24](https://www.bible.com/bible/1/ACT.20.24.KJV) captures his attitude: he did not count his life dear to himself so that he might finish his course with joy and the ministry he received from the Lord Jesus, to testify of the Gospel of the grace of God.
 
 That is the goal: finish the course with joy.
 
@@ -281,7 +281,7 @@ There is nothing wrong with repeating a warning when you care for people. Repeti
 
 ## The Word of Grace Builds Us Up
 
-Acts 20:32 says, "And now, brethren, I commend you to God, and to the word of his grace, which is able to build you up, and to give you an inheritance among all them which are sanctified."
+[Acts 20:32](https://www.bible.com/bible/1/ACT.20.32.KJV) says, "And now, brethren, I commend you to God, and to the word of his grace, which is able to build you up, and to give you an inheritance among all them which are sanctified."
 
 Paul did not covet anyone's silver, gold, or clothing. He did not look at someone's possessions and desire to have them. He worked with his own hands.
 
@@ -313,7 +313,7 @@ The central target remains the same: be like Jesus. Be pure. Be peaceable. Be ge
 
 One day we will meet the Lamb Himself as His bride. The seriousness of that future meeting should make us value the mercy we have received and the truth we have been given.
 
-First Timothy 3:15 says that if Paul is delayed, believers should know how to behave in the house of God, which is the church of the living God, the pillar and ground of the truth.
+[First Timothy 3:15](https://www.bible.com/bible/1/1TI.3.15.KJV) says that if Paul is delayed, believers should know how to behave in the house of God, which is the church of the living God, the pillar and ground of the truth.
 
 Notice the phrase: the house of God. It is a house. It is a gathering. It is a place where truth is available. There is an order and an obligation in how we behave in the house of God.
 
@@ -337,25 +337,25 @@ We trust Him and receive these things in Jesus' name. Amen.
 
 ## Scripture References
 
-- Hebrews 13:20-21
-- John 3:16
-- John 3:35-36
-- 1 John 1:9
-- 1 John 2:1-2
-- 1 John 4:10-11
-- Revelation 1:1-3
-- Revelation 6:12-17
-- Revelation 19:7-8
-- 1 Thessalonians 1:10
-- Proverbs 3:1-18
-- Proverbs 4:7-9
-- James 3:10-18
-- Matthew 11:25-30
-- Hosea 6:6
-- Matthew 9:13
-- Micah 6:8
-- Acts 20:12-38
-- 1 Timothy 3:15
+- [Hebrews 13:20-21](https://www.bible.com/bible/1/HEB.13.20-21.KJV)
+- [John 3:16](https://www.bible.com/bible/1/JHN.3.16.KJV)
+- [John 3:35-36](https://www.bible.com/bible/1/JHN.3.35-36.KJV)
+- [1 John 1:9](https://www.bible.com/bible/1/1JN.1.9.KJV)
+- [1 John 2:1-2](https://www.bible.com/bible/1/1JN.2.1-2.KJV)
+- [1 John 4:10-11](https://www.bible.com/bible/1/1JN.4.10-11.KJV)
+- [Revelation 1:1-3](https://www.bible.com/bible/1/REV.1.1-3.KJV)
+- [Revelation 6:12-17](https://www.bible.com/bible/1/REV.6.12-17.KJV)
+- [Revelation 19:7-8](https://www.bible.com/bible/1/REV.19.7-8.KJV)
+- [1 Thessalonians 1:10](https://www.bible.com/bible/1/1TH.1.10.KJV)
+- [Proverbs 3:1-18](https://www.bible.com/bible/1/PRO.3.1-18.KJV)
+- [Proverbs 4:7-9](https://www.bible.com/bible/1/PRO.4.7-9.KJV)
+- [James 3:10-18](https://www.bible.com/bible/1/JAS.3.10-18.KJV)
+- [Matthew 11:25-30](https://www.bible.com/bible/1/MAT.11.25-30.KJV)
+- [Hosea 6:6](https://www.bible.com/bible/1/HOS.6.6.KJV)
+- [Matthew 9:13](https://www.bible.com/bible/1/MAT.9.13.KJV)
+- [Micah 6:8](https://www.bible.com/bible/1/MIC.6.8.KJV)
+- [Acts 20:12-38](https://www.bible.com/bible/1/ACT.20.12-38.KJV)
+- [1 Timothy 3:15](https://www.bible.com/bible/1/1TI.3.15.KJV)
 
 ## Study Pointers
 
