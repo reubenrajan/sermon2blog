@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Convert a YouTube video, Spotify podcast, or other sermon/podcast source into a readable study-blog Markdown document and publish it in the Sermon2Blog repo.
+Convert a YouTube video, Spotify podcast, or other sermon/podcast source into a readable study-blog Markdown document and publish it in the Sermon2Blog Hugo site.
 
 The output must preserve the speaker's overall meaning, teaching flow, important wording, Scripture references, stories, and illustrations while removing conversational delivery artifacts.
 
@@ -116,8 +116,25 @@ draft: false
 Do not force these headings if the sermon already has a strong structure. Use headings that reflect the actual content.
 
 ### 6. Publish to GitHub Pages
+
 Every completed sermon blog must be stored in the repository under:
-`/sermons/<slug>.md`
+`sermons/<title>_<speaker>.md`
+
+Use the `archetypes/sermons.md` structure as the default starting point.
+Set `draft: false` for posts that are ready to publish.
+
+Commit the new post to the `main` branch.
+
+Do not place future sermon posts only in external storage. The GitHub repository is the canonical source for published sermon blog posts.
+
+Also create an RSS entry in the root-level `rss.xml`.
+
+Update the root-level `rss.xml` whenever a sermon is added or its metadata changes.
+The feed must be valid RSS 2.0 XML and contain one `<item>` for every Markdown file in `sermons/`.
+For each item, include the sermon title, a stable GitHub URL for the Markdown file as both `<link>` and `<guid>`, a short description, the speaker when known, and the entire sermon Markdown in an RSS content field such as `<content:encoded>`.
+Copy the complete sermon source, including its front matter and Markdown content, into the content field without truncating it.
+Include `<pubDate>` only when the sermon date is known. XML-escape metadata and descriptions, and do not include draft sermons.
+Use CDATA for the full sermon content when possible, and ensure the embedded content cannot break the XML document.
 
 ### 7. Final quality check
 
@@ -138,15 +155,16 @@ Before publishing, verify:
 - The sermon meaning is preserved.
 - No new theological claims have been added.
 - The output is valid Markdown.
-- The post is stored under `/sermons/`.
+- The post is stored under `sermons/`.
+- `rss.xml` is valid RSS 2.0 XML, includes every non-draft sermon entry exactly once, and contains the complete source of each entry.
 
 ## Output
 
-Return the completed study-blog Markdown as a file and publish the same Markdown into `/sermons/` in the `sermon2blog` repository.
+Return the completed study-blog Markdown as a file and publish the same Markdown into `sermons/` in the `sermon2blog` repository.
 
 Use the filename:
 
-`<title>_<speaker>>.md`
+`<title>_<speaker>.md`
 
 ## Important constraint
 Deterministic cleanup is the processing layer. The editorial review is the semantic layer.
