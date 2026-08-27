@@ -148,21 +148,16 @@ Before publishing, verify:
 - The sermon meaning is preserved.
 - No new theological claims have been added.
 - The output is valid Markdown.
-- The post has valid Hugo front matter.
-- The post is stored under `content/sermons/`.
+- The post is stored under `/sermons/`.
 
 ## Output
 
-Return the completed study-blog Markdown as a file and publish the same Markdown into `content/sermons/` in the `sermon2blog` repository.
+Return the completed study-blog Markdown as a file and publish the same Markdown into `/sermons/` in the `sermon2blog` repository.
 
 Use the filename:
 
-`<title>_Study_Blog.md`
-
-Also provide a short summary of the editorial changes made.
+`<title>_<speaker>>.md`
 
 ## Important constraint
-
 Deterministic cleanup is the processing layer. The editorial review is the semantic layer.
-
 Do not replace the editorial review with aggressive automated rewriting. The purpose is to make the sermon readable as study material while preserving the original message.
