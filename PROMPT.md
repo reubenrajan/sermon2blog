@@ -14,7 +14,7 @@ Perform deterministic cleanup first, then a semantic editorial review. Do not ad
 
 Resolve every Scripture reference in both representations with YouVersion and hyperlink every occurrence, preserving the original reference text as the link label. For KJV use the YouVersion bible/1 reference pattern. Keep translation identity intact.
 
-Publish to the Sermons Notion database at https://app.notion.com/p/reubenrajan/ece7eaa53bd3465c85a4fc285bc48572?v=53a1ab590ed643e281452911904c4d67:
+Publish to the Sermons Notion database at [SERMON INDEX](https://app.notion.com/p/reubenrajan/ece7eaa53bd3465c85a4fc285bc48572?)v=53a1ab590ed643e281452911904c4d67:
 - Raw page name: <title>-<speaker>, Type = Raw
 - Study page name: <title>-<speaker>, Type = Study
 
