@@ -31,7 +31,7 @@ That message led Johnson to pray, “God, I give You the rest of my life to teac
 
 He argues that the church has rightly centered itself on the Word, but Israel also camped around the presence of God. He believes the Lord is restoring the church to become a presence-oriented people, where the manifested presence of God is the central value.
 
-John 15:7 becomes important here: abiding in Christ and allowing His words to abide in us enables us to live in cooperation with God. The goal is not merely to know words about God, but to know the person of the Word.
+[John 15:7](https://www.bible.com/bible/111/JHN.15.7.NKJV) becomes important here: abiding in Christ and allowing His words to abide in us enables us to live in cooperation with God. The goal is not merely to know words about God, but to know the person of the Word.
 
 ## Hosting the Presence of God
 
@@ -53,7 +53,7 @@ He describes repentance as a change in perspective. The purpose of repentance is
 
 ## The Kingdom Is Present
 
-Matthew 12:28 is used to show that the kingdom of God is made manifest through the Spirit of God.
+[Matthew 12:28](https://www.bible.com/bible/111/MAT.12.28.NKJV) is used to show that the kingdom of God is made manifest through the Spirit of God.
 
 Johnson emphasizes that seeking the kingdom means looking for the manifestation of God's answer to the broken situation in front of us. The kingdom is associated with righteousness, peace, and joy in the Holy Spirit.
 
@@ -63,7 +63,7 @@ The believer is called to look for heaven's answer and pursue it in the situatio
 
 Johnson describes three areas of ministry for every believer: ministry to the Lord, ministry to the church, and ministry to the world. He presents this as an order of priority.
 
-Evangelism is described as an overflow of worship. Isaiah 6 provides the model: Isaiah encounters God, hears “Who shall I send?”, and responds by volunteering to go.
+Evangelism is described as an overflow of worship. [Isaiah 6](https://www.bible.com/bible/111/ISA.6.NKJV) provides the model: Isaiah encounters God, hears “Who shall I send?”, and responds by volunteering to go.
 
 True worship does not make believers less willing to evangelize. It produces people who carry God's presence into the world.
 
@@ -79,9 +79,9 @@ The implication is that believers should stay filled with the Holy Spirit so tha
 
 ## The Gates of Praise
 
-Isaiah 62:10 says, “Go through, go through the gates. Prepare the way for the people. Build up, build up the highway. Take out the stones. Lift up a banner for the people.”
+[Isaiah 62:10](https://www.bible.com/bible/111/ISA.62.10.NKJV) says, “Go through, go through the gates. Prepare the way for the people. Build up, build up the highway. Take out the stones. Lift up a banner for the people.”
 
-Johnson connects this with Isaiah 60:18, where the gates are called praise. He sees the gates of praise as a prophetic picture of preparing a way for people to encounter God.
+Johnson connects this with [Isaiah 60:18](https://www.bible.com/bible/111/ISA.60.18.NKJV), where the gates are called praise. He sees the gates of praise as a prophetic picture of preparing a way for people to encounter God.
 
 Praise creates a kind of highway. It removes obstacles and prepares hearts for encounter.
 
@@ -177,7 +177,7 @@ This becomes a central part of the message: praise becomes most costly, and ther
 
 ## The Pearls of Praise
 
-Revelation 21:21 describes the gates of the city as pearls.
+[Revelation 21:21](https://www.bible.com/bible/111/REV.21.21.NKJV) describes the gates of the city as pearls.
 
 Johnson asks how pearls are formed: through irritation.
 
@@ -200,14 +200,14 @@ The final prayer asks God to expand the believer's capacity to offer everything 
 ## Scripture References
 
 - Ezekiel
-- John 15:7
-- Matthew 12:28
-- Isaiah 6
-- Isaiah 60:18
-- Isaiah 62:10
-- Acts 2:1
-- Revelation 21:21
-- Psalm 24
+- [John 15:7](https://www.bible.com/bible/111/JHN.15.7.NKJV)
+- [Matthew 12:28](https://www.bible.com/bible/111/MAT.12.28.NKJV)
+- [Isaiah 6](https://www.bible.com/bible/111/ISA.6.NKJV)
+- [Isaiah 60:18](https://www.bible.com/bible/111/ISA.60.18.NKJV)
+- [Isaiah 62:10](https://www.bible.com/bible/111/ISA.62.10.NKJV)
+- [Acts 2:1](https://www.bible.com/bible/111/ACT.2.1.NKJV)
+- [Revelation 21:21](https://www.bible.com/bible/111/REV.21.21.NKJV)
+- [Psalm 24](https://www.bible.com/bible/111/PSA.24.NKJV)
 
 ## Study Pointers
 

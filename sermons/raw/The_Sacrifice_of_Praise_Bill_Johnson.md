@@ -31,7 +31,7 @@ But Israel camped around the presence.
 
 I believe the Lord is restoring the church to become a presence-oriented people, a presence-oriented culture where the manifested presence of God is the central theme and supreme value, that which we recognize and honor most.
 
-I do not say this in conflict with our heritage or everything we have learned. We have learned so much, and I do not want to lose any of it. But one of the key things the Lord has spoken to me for many years is John 15:7: “Abide in Me, and My words abide in you. You will ask whatever you desire, and it will be done for you.”
+I do not say this in conflict with our heritage or everything we have learned. We have learned so much, and I do not want to lose any of it. But one of the key things the Lord has spoken to me for many years is [John 15:7](https://www.bible.com/bible/111/JHN.15.7.NKJV): “Abide in Me, and My words abide in you. You will ask whatever you desire, and it will be done for you.”
 
 The purpose of life is to learn to collaborate with God so that His Word can filter through our personality and our will and become manifest in the earth. But it takes abiding, and it takes the Word.
 
@@ -89,7 +89,7 @@ When Jesus said, “Seek first the kingdom,” He was not telling us simply to t
 
 ## The Kingdom in the Holy Spirit
 
-Jesus said in Matthew 12:28, “If I cast a demon out of you by the Spirit of God, the kingdom of God has come upon you.”
+Jesus said in [Matthew 12:28](https://www.bible.com/bible/111/MAT.12.28.NKJV), “If I cast a demon out of you by the Spirit of God, the kingdom of God has come upon you.”
 
 The kingdom of God is not meat or drink, but righteousness, peace, and joy in the Holy Spirit. The kingdom is in the realm of the Spirit.
 
@@ -111,7 +111,7 @@ The strange thing is that only one of them is urgent: ministry to the world.
 
 Evangelism in its purest form is an overflow of worship.
 
-Isaiah 6 gives a picture of this. Isaiah is in an intense encounter with God when the Lord says, “Who shall I send?” Isaiah volunteers to go.
+[Isaiah 6](https://www.bible.com/bible/111/ISA.6.NKJV) gives a picture of this. Isaiah is in an intense encounter with God when the Lord says, “Who shall I send?” Isaiah volunteers to go.
 
 There are people who are willing to worship but unwilling to go, and that can reveal that they are worshiping worship.
 
@@ -133,11 +133,11 @@ There is something about awareness of the Spirit of God who is with us and upon 
 
 ## The Gates of Praise
 
-Isaiah 62:10 says, “Go through, go through the gates. Prepare the way for the people. Build up, build up the highway. Take out the stones. Lift up a banner for the people.”
+[Isaiah 62:10](https://www.bible.com/bible/111/ISA.62.10.NKJV) says, “Go through, go through the gates. Prepare the way for the people. Build up, build up the highway. Take out the stones. Lift up a banner for the people.”
 
 A highway is a place of easy access. What does this mean?
 
-Isaiah 60:18 says, “Your walls will be called salvation and your gates praise.” So the context is the gates of praise.
+[Isaiah 60:18](https://www.bible.com/bible/111/ISA.60.18.NKJV) says, “Your walls will be called salvation and your gates praise.” So the context is the gates of praise.
 
 Go through the gates of praise. Prepare the way for the people.
 
@@ -209,7 +209,7 @@ The Bible does not say, “Shout to the Lord, all you extroverts, and introverts
 
 We took time to praise God for His love, faithfulness, purity, righteousness, justice, and other aspects of His character.
 
-Praying, singing, and speaking in tongues are vital. Acts 2 records people hearing the disciples declaring the mighty works of God. Tongues are a language of prayer, intercession, and praise.
+Praying, singing, and speaking in tongues are vital. [Acts 2](https://www.bible.com/bible/111/ACT.2.NKJV) records people hearing the disciples declaring the mighty works of God. Tongues are a language of prayer, intercession, and praise.
 
 But in this exercise, I wanted people to engage another part of our assignment: loving God with all our mind, as well as our heart, soul, and strength.
 
@@ -295,7 +295,7 @@ There is something about the sacrifice of praise.
 
 We know that God inhabits the praises of His people. When Scripture speaks about gates, it is often speaking about a place of presence.
 
-Psalm 24 says, “Lift up your heads, O you gates, that the King of glory may come in.”
+[Psalm 24](https://www.bible.com/bible/111/PSA.24.NKJV) says, “Lift up your heads, O you gates, that the King of glory may come in.”
 
 It is always about presence.
 
@@ -325,7 +325,7 @@ I do not need explanations. He owes me nothing. He never has to explain Himself 
 
 ## The Pearls of Praise
 
-Revelation 21:21 says the twelve gates of the city are made of pearls, each gate a pearl.
+[Revelation 21:21](https://www.bible.com/bible/111/REV.21.21.NKJV) says the twelve gates of the city are made of pearls, each gate a pearl.
 
 How are pearls formed? Through irritation.
 
