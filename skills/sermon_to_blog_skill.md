@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Convert a YouTube video, Spotify podcast, or other sermon/podcast source into a readable study-blog Markdown document and publish it in the Sermon2Blog Hugo site.
+Convert a YouTube video, Spotify podcast, or other sermon/podcast source into a readable study-blog Markdown document and publish it in the Sermon2Blog repo.
 
 The output must preserve the speaker's overall meaning, teaching flow, important wording, Scripture references, stories, and illustrations while removing conversational delivery artifacts.
 
@@ -116,18 +116,8 @@ draft: false
 Do not force these headings if the sermon already has a strong structure. Use headings that reflect the actual content.
 
 ### 6. Publish to GitHub Pages
-
 Every completed sermon blog must be stored in the repository under:
-
-`content/sermons/<slug>.md`
-
-Use the Hugo `archetypes/sermons.md` structure as the default starting point.
-
-Set `draft: false` for posts that are ready to publish.
-
-Commit the new post to the `main` branch. The GitHub Actions workflow at `.github/workflows/hugo.yml` builds the Hugo site and deploys it to GitHub Pages.
-
-Do not place future sermon posts only in external storage. The GitHub repository is the canonical source for published sermon blog posts.
+`/sermons/<slug>.md`
 
 ### 7. Final quality check
 
